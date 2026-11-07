@@ -4,6 +4,14 @@ A small application for controlling a gamepad's vibration motors.
 
 ## Run
 
+On Windows, run:
+
+```bat
+run.bat
+```
+
+On Linux or macOS, run:
+
 ```bash
 ./run.sh
 ```
